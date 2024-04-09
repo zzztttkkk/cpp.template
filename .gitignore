@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+
+.idea
+.vsc
+.vs
+cmake-build-debug
+cmake-build-release
+cmake-build-debug-event-trace
+out
+CMakeSettings.json
